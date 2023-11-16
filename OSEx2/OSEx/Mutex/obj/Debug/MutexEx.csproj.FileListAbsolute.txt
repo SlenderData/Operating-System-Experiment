@@ -1,0 +1,14 @@
+C:\Users\bettafli_2\source\repos\Mutex\Mutex\bin\Debug\Mutex.exe.config
+C:\Users\bettafli_2\source\repos\Mutex\Mutex\bin\Debug\Mutex.exe
+C:\Users\bettafli_2\source\repos\Mutex\Mutex\bin\Debug\Mutex.pdb
+C:\Users\bettafli_2\source\repos\Mutex\Mutex\obj\Debug\MutexEx.csprojAssemblyReference.cache
+C:\Users\bettafli_2\source\repos\Mutex\Mutex\obj\Debug\MutexEx.csproj.CoreCompileInputs.cache
+C:\Users\bettafli_2\source\repos\Mutex\Mutex\obj\Debug\Mutex.exe
+C:\Users\bettafli_2\source\repos\Mutex\Mutex\obj\Debug\Mutex.pdb
+D:\教学\JJ操作系统\实验\OSEx\Mutex\bin\Debug\Mutex.exe.config
+D:\教学\JJ操作系统\实验\OSEx\Mutex\bin\Debug\Mutex.exe
+D:\教学\JJ操作系统\实验\OSEx\Mutex\bin\Debug\Mutex.pdb
+D:\教学\JJ操作系统\实验\OSEx\Mutex\obj\Debug\MutexEx.csprojAssemblyReference.cache
+D:\教学\JJ操作系统\实验\OSEx\Mutex\obj\Debug\MutexEx.csproj.CoreCompileInputs.cache
+D:\教学\JJ操作系统\实验\OSEx\Mutex\obj\Debug\Mutex.exe
+D:\教学\JJ操作系统\实验\OSEx\Mutex\obj\Debug\Mutex.pdb

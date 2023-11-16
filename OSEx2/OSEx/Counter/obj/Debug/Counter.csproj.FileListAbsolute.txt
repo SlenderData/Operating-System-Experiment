@@ -1,0 +1,14 @@
+C:\Users\bettafli_2\source\repos\Mutex\Counter\bin\Debug\Counter.exe.config
+C:\Users\bettafli_2\source\repos\Mutex\Counter\bin\Debug\Counter.exe
+C:\Users\bettafli_2\source\repos\Mutex\Counter\bin\Debug\Counter.pdb
+C:\Users\bettafli_2\source\repos\Mutex\Counter\obj\Debug\Counter.csprojAssemblyReference.cache
+C:\Users\bettafli_2\source\repos\Mutex\Counter\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+C:\Users\bettafli_2\source\repos\Mutex\Counter\obj\Debug\Counter.exe
+C:\Users\bettafli_2\source\repos\Mutex\Counter\obj\Debug\Counter.pdb
+D:\教学\JJ操作系统\实验\OSEx\Counter\bin\Debug\Counter.exe.config
+D:\教学\JJ操作系统\实验\OSEx\Counter\bin\Debug\Counter.exe
+D:\教学\JJ操作系统\实验\OSEx\Counter\bin\Debug\Counter.pdb
+D:\教学\JJ操作系统\实验\OSEx\Counter\obj\Debug\Counter.csprojAssemblyReference.cache
+D:\教学\JJ操作系统\实验\OSEx\Counter\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+D:\教学\JJ操作系统\实验\OSEx\Counter\obj\Debug\Counter.exe
+D:\教学\JJ操作系统\实验\OSEx\Counter\obj\Debug\Counter.pdb

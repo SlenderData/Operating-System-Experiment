@@ -1,0 +1,7 @@
+D:\教学\JJ操作系统\实验\OSEx\PCEx\bin\Release\PCEx.exe.config
+D:\教学\JJ操作系统\实验\OSEx\PCEx\bin\Release\PCEx.exe
+D:\教学\JJ操作系统\实验\OSEx\PCEx\bin\Release\PCEx.pdb
+D:\教学\JJ操作系统\实验\OSEx\PCEx\obj\Release\PCEx.csprojAssemblyReference.cache
+D:\教学\JJ操作系统\实验\OSEx\PCEx\obj\Release\PCEx.csproj.CoreCompileInputs.cache
+D:\教学\JJ操作系统\实验\OSEx\PCEx\obj\Release\PCEx.exe
+D:\教学\JJ操作系统\实验\OSEx\PCEx\obj\Release\PCEx.pdb
