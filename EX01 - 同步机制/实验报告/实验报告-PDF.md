@@ -71,13 +71,13 @@ Fonts: https://github.com/Keldos-Li/typora-latex-theme-fonts -->
 
 ## 实验设计
 
-　　原始参考的案例代码均由 <span><img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/C%23.svg" alt="C#" style="height:1em;margin-bottom:0.25em"></span> `C#` 编写，这里本人使用 <span><img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/python.svg" alt="Python" style="height:1em;margin-bottom:0.25em"></span> `Python` 实现，力求达到同样的效果。
+　　原始参考的案例代码均由 <img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/C%23.svg" alt="C#" style="height:1em;margin-bottom:0.25em"> `C#` 编写，这里本人使用 <img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/Python.svg" alt="Python" style="height:1em;margin-bottom:0.25em"> `Python` 实现，力求达到同样的效果。
 
-　　**开发环境**：<span><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 11" style="height:1em;margin-bottom:0.25em"></span> `Windows 11 Pro 23H2`
+　　**开发环境**：<img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/OperatingSystem/Windows11.svg" alt="Windows 11" style="height:1em;margin-bottom:0.25em"> `Windows 11 Pro 23H2`
 
-　　　　　　　<span><img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/python.svg" alt="Python" style="height:1em;margin-bottom:0.25em"></span> `Python 3.12`
+　　　　　　　<img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/Python.svg" alt="Python" style="height:1em;margin-bottom:0.25em"> `Python 3.12`
 
-　　　　　　　<span><img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/IDE/JetBrains/PyCharm.svg" alt="PyCharm" style="height:1em;margin-bottom:0.25em"></span> `PyCharm 2023.2.5`
+　　　　　　　<img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/IDE/JetBrains/PyCharm.svg" alt="PyCharm" style="height:1em;margin-bottom:0.25em"> `PyCharm 2023.2.5`
 
 
 
