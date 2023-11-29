@@ -21,9 +21,9 @@ Fonts: https://github.com/Keldos-Li/typora-latex-theme-fonts -->
     <table style="border:none;text-align:center;width:72%;font-family:仿宋;font-size:14px; margin: 0 auto;">
     <tbody style="font-family:方正公文仿宋;font-size:12pt;">
     	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">题　　目</td>
+    		<td style="width:5%;text-align:right;">题&emsp;&emsp;目</td>
     		<td style="width:2%">：</td> 
-    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">实验一　同步机制</td>     </tr>
+    		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">实验一&emsp;同步机制</td>     </tr>
     	<tr style="font-weight:normal;"> 
     		<td style="width:5%;text-align:right;">上机时间</td>
     		<td style="width:2%">：</td> 
@@ -33,23 +33,23 @@ Fonts: https://github.com/Keldos-Li/typora-latex-theme-fonts -->
     		<td style="width:2%">：</td> 
     		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">潘雨青</td>     </tr>
     	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">姓　　名</td>
+    		<td style="width:5%;text-align:right;">姓&emsp;&emsp;名</td>
     		<td style="width:2%">：</td> 
     		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">马云骥</td>     </tr>
     	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">学　　号</td>
+    		<td style="width:5%;text-align:right;">学&emsp;&emsp;号</td>
     		<td style="width:2%">：</td> 
     		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">4211153047</td>     </tr>
         <tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">专　　业</td>
+    		<td style="width:5%;text-align:right;">专&emsp;&emsp;业</td>
     		<td style="width:2%">：</td> 
     		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">软件工程</td>     </tr>
     	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">班　　级</td>
+    		<td style="width:5%;text-align:right;">班&emsp;&emsp;级</td>
     		<td style="width:2%">：</td> 
     		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">J软件(嵌入)(专转本)2102</td>     </tr>
     	<tr style="font-weight:normal;"> 
-    		<td style="width:5%;text-align:right;">日　　期</td>
+    		<td style="width:5%;text-align:right;">日&emsp;&emsp;期</td>
     		<td style="width:2%">：</td> 
     		<td style="width:40%;font-weight:normal;border-bottom: 1px solid;text-align:center;font-family:华文仿宋">2023.11.22</td>     </tr>
     </tbody>              
@@ -57,7 +57,7 @@ Fonts: https://github.com/Keldos-Li/typora-latex-theme-fonts -->
 </div>
 <!-- 导出PDF时会在这里分页 -->
 
-# 实验一　同步机制
+# 实验一&emsp;同步机制
 
 
 
@@ -71,21 +71,21 @@ Fonts: https://github.com/Keldos-Li/typora-latex-theme-fonts -->
 
 ## 实验设计
 
-　　原始参考的案例代码均由 <img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/C%23.svg" alt="C#" style="height:1em;margin-bottom:0.25em"> `C#` 编写，这里本人使用 <img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/Python.svg" alt="Python" style="height:1em;margin-bottom:0.25em"> `Python` 实现，力求达到同样的效果。
+&emsp;&emsp;原始参考的案例代码均由 <img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/C%23.svg" alt="C#" style="height:1em;margin-bottom:0.25em"> `C#` 编写，这里本人使用 <img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/Python.svg" alt="Python" style="height:1em;margin-bottom:0.25em"> `Python` 实现，力求达到同样的效果。
 
-　　**开发环境**：<img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/OperatingSystem/Windows11.svg" alt="Windows 11" style="height:1em;margin-bottom:0.25em"> `Windows 11 Pro 23H2`
+&emsp;&emsp;**开发环境**：<img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/OperatingSystem/Windows11.svg" alt="Windows 11" style="height:1em;margin-bottom:0.25em"> `Windows 11 Pro 23H2`
 
-　　　　　　　<img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/Python.svg" alt="Python" style="height:1em;margin-bottom:0.25em"> `Python 3.12`
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/Python.svg" alt="Python" style="height:1em;margin-bottom:0.25em"> `Python 3.12`
 
-　　　　　　　<img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/IDE/JetBrains/PyCharm.svg" alt="PyCharm" style="height:1em;margin-bottom:0.25em"> `PyCharm 2023.2.5`
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/IDE/JetBrains/PyCharm.svg" alt="PyCharm" style="height:1em;margin-bottom:0.25em"> `PyCharm 2023.2.5`
 
 
 
 ### Counter
 
-　　**目标**：了解多线程编程，思考为何多个线程执行相同代码时所需要时间不同。
+&emsp;&emsp;**目标**：了解多线程编程，思考为何多个线程执行相同代码时所需要时间不同。
 
-　　**代码如下**：
+&emsp;&emsp;**代码如下**：
 
 ```python
 import threading
@@ -114,7 +114,7 @@ for thread in threads:
 
 ```
 
-　　这段代码使用 Python 的 `threading` 模块来创建和运行多个线程。下面是对代码的详细解释：
+&emsp;&emsp;这段代码使用 Python 的 `threading` 模块来创建和运行多个线程。下面是对代码的详细解释：
 
 1. **导入必要的模块**:
    - `import threading`: 导入 Python 中用于线程处理的 `threading` 模块。
@@ -137,17 +137,17 @@ for thread in threads:
    - 使用一个循环来遍历 `threads` 列表。
    - 对于列表中的每个线程，调用 `thread.join()`。这个方法会阻塞当前线程（即主线程），直到被调用 `join()` 的线程完成。这确保了主线程会等待所有创建的线程完成后才继续执行。
 
-　　综上所述，这段代码创建了 10 个线程，每个线程执行相同的计算任务，并且主线程会等待所有这些线程完成后才结束程序。这是一个多线程并发执行的示例。
+&emsp;&emsp;综上所述，这段代码创建了 10 个线程，每个线程执行相同的计算任务，并且主线程会等待所有这些线程完成后才结束程序。这是一个多线程并发执行的示例。
 
-　　多个线程执行相同代码时所需要时间不同的原因主要是线程的调度和并发执行。创建了10个线程，每个线程都执行相同的计算任务。由于线程是并发执行的，操作系统会根据各种因素来调度这些线程的执行顺序。这包括处理器的可用性、线程的优先级、系统负载等。因此，每次运行程序时，不同的线程可能会以不同的顺序执行，这会导致它们花费的时间不同。
+&emsp;&emsp;多个线程执行相同代码时所需要时间不同的原因主要是线程的调度和并发执行。创建了10个线程，每个线程都执行相同的计算任务。由于线程是并发执行的，操作系统会根据各种因素来调度这些线程的执行顺序。这包括处理器的可用性、线程的优先级、系统负载等。因此，每次运行程序时，不同的线程可能会以不同的顺序执行，这会导致它们花费的时间不同。
 
 
 
 ### PrioEx
 
-　　**目标**：掌握多线程编程，熟悉如何调整的线程的优先级，并尝试改变实例中不同线程的优先级，观察其中运行时间的变化。
+&emsp;&emsp;**目标**：掌握多线程编程，熟悉如何调整的线程的优先级，并尝试改变实例中不同线程的优先级，观察其中运行时间的变化。
 
-　　**代码如下**：
+&emsp;&emsp;**代码如下**：
 
 ```python
 import threading
@@ -178,7 +178,7 @@ for thread in threads:
 
 ```
 
-　　这段代码使用 Python 的 `threading` 模块来创建和运行多个线程，并通过自定义的方式模拟线程优先级。以下是代码的详细解释：
+&emsp;&emsp;这段代码使用 Python 的 `threading` 模块来创建和运行多个线程，并通过自定义的方式模拟线程优先级。以下是代码的详细解释：
 
 1. **导入必要的模块**:
    - `import threading`: 导入 Python 中用于线程处理的 `threading` 模块。
@@ -203,19 +203,19 @@ for thread in threads:
    - 再次遍历 `threads` 列表。
    - 对每个线程调用 `thread.join()`，确保主线程在所有子线程完成之前不会继续执行。
 
-　　通过这种方式，代码创建了 10 个具有不同“优先级”的线程，每个线程执行相同的计数任务，但根据其“优先级”休眠不同的时间，模拟了线程优先级的影响。这个例子展示了如何在 Python 中通过控制线程的休眠时间来模拟线程优先级的概念。
+&emsp;&emsp;通过这种方式，代码创建了 10 个具有不同“优先级”的线程，每个线程执行相同的计数任务，但根据其“优先级”休眠不同的时间，模拟了线程优先级的影响。这个例子展示了如何在 Python 中通过控制线程的休眠时间来模拟线程优先级的概念。
 
 
 
 ### MutexEx
 
-　　**目标**：熟悉 Windows 系统中的互斥控制方法，在此基础上实现 4 个线程的互斥控制（原实例中为 2 个线程）。
+&emsp;&emsp;**目标**：熟悉 Windows 系统中的互斥控制方法，在此基础上实现 4 个线程的互斥控制（原实例中为 2 个线程）。
 
 
 
 #### 2 个线程的互斥控制
 
-　　**代码如下**：
+&emsp;&emsp;**代码如下**：
 
 ```python
 import threading
@@ -260,7 +260,7 @@ customer_thread.join()
 
 ```
 
-　　这段代码展示了一个生产者-消费者模式的基本示例，其中使用了线程同步机制（通过互斥锁）来控制线程间的交互。下面是对代码的详细解释：
+&emsp;&emsp;这段代码展示了一个生产者-消费者模式的基本示例，其中使用了线程同步机制（通过互斥锁）来控制线程间的交互。下面是对代码的详细解释：
 
 1. **导入必要的模块**:
    - `import threading`: 导入 Python 中用于线程处理的 `threading` 模块。
@@ -287,15 +287,15 @@ customer_thread.join()
 6. **等待线程结束**:
    - 使用 `join()` 方法等待两个线程结束。不过，由于线程函数中使用了无限循环，这意味着这两个线程实际上不会自行结束，除非程序被外部中断，比如手动停止程序。
 
-　　在这个示例中，生产者和消费者通过一个互斥锁来协调它们的操作。由于两个线程不能同时持有锁，这就保证了当一个线程（比如生产者）正在工作时，另一个线程（比如消费者）将等待直到锁被释放。这样可以防止同时访问共享资源所可能引发的问题，如数据不一致或竞争条件。
+&emsp;&emsp;在这个示例中，生产者和消费者通过一个互斥锁来协调它们的操作。由于两个线程不能同时持有锁，这就保证了当一个线程（比如生产者）正在工作时，另一个线程（比如消费者）将等待直到锁被释放。这样可以防止同时访问共享资源所可能引发的问题，如数据不一致或竞争条件。
 
 
 
 #### 4 个线程的互斥控制
 
-　　由于并未指定生产者和消费者的个数，这里假定为 2 个生产者和 2 个消费者。
+&emsp;&emsp;由于并未指定生产者和消费者的个数，这里假定为 2 个生产者和 2 个消费者。
 
-　　**代码如下**：
+&emsp;&emsp;**代码如下**：
 
 ```python
 import threading
@@ -342,7 +342,7 @@ for thread in threads:
 
 ```
 
-　　这段代码与之前的代码相比有以下主要区别：
+&emsp;&emsp;这段代码与之前的代码相比有以下主要区别：
 
 1. **多个生产者和消费者**:
    - 在这个版本中，我创建了多个生产者（producer）和消费者（customer）线程。每个生产者和消费者都有一个唯一的标识符（`id`），这在函数调用时作为参数传入。
@@ -356,17 +356,17 @@ for thread in threads:
    - 在这个版本中，打印的信息包含了线程的 `id`，这使得输出更容易区分哪个生产者或消费者在工作。例如，`print(f"Producer {id} is working!")`。
    - 在先前的代码中，打印的信息是静态的，没有区分不同线程的标识。
 
-　　这些更改使代码能够支持多个生产者和消费者线程的并发执行，同时还能通过线程的唯一标识来追踪每个线程的活动。
+&emsp;&emsp;这些更改使代码能够支持多个生产者和消费者线程的并发执行，同时还能通过线程的唯一标识来追踪每个线程的活动。
 
 
 
 ### PCEx
 
-　　**目标**：熟悉 Windows 系统中的同步控制方法，实现如下图所示的多线程的同步控制。
+&emsp;&emsp;**目标**：熟悉 Windows 系统中的同步控制方法，实现如下图所示的多线程的同步控制。
 
 ![](https://raw.githubusercontent.com/SlenderData/img/main/images/2023/11/20/21-29-16-8f8912bdacfa8004f70266c346fb258a-EX01-b4c196.svg)
 
-　　**代码如下**：
+&emsp;&emsp;**代码如下**：
 
 ```python
 import threading
@@ -433,7 +433,7 @@ for t in producer_threads + [pc_thread] + customer_threads:
 
 ```
 
-　　这段代码展示了一个生产者-处理器-消费者模型，使用线程、队列和锁来处理并发和同步。这是一个复杂的多线程示例，涉及到多个生产者、一个处理器（producer-consumer，缩写为 `pc`）、以及多个消费者。下面是对代码的详细解释：
+&emsp;&emsp;这段代码展示了一个生产者-处理器-消费者模型，使用线程、队列和锁来处理并发和同步。这是一个复杂的多线程示例，涉及到多个生产者、一个处理器（producer-consumer，缩写为 `pc`）、以及多个消费者。下面是对代码的详细解释：
 
 1. **导入必要的模块**:
    - `import threading`: 用于处理多线程。
@@ -468,7 +468,7 @@ for t in producer_threads + [pc_thread] + customer_threads:
 8. **等待所有线程结束**:
    - 使用 `join()` 方法等待所有线程结束。但由于线程函数中使用了无限循环，这些线程实际上不会自行结束，除非程序被外部中断，比如手动停止程序。
 
-　　这段代码演示了如何在一个复杂的生产者-处理器-消费者模型中使用队列来管理数据流，并通过锁来确保线程之间在访问共享资源时的同步。这是一种常见的并发编程模式，适用于多种数据处理和流处理场景。
+&emsp;&emsp;这段代码演示了如何在一个复杂的生产者-处理器-消费者模型中使用队列来管理数据流，并通过锁来确保线程之间在访问共享资源时的同步。这是一种常见的并发编程模式，适用于多种数据处理和流处理场景。
 
 
 
@@ -500,4 +500,4 @@ for t in producer_threads + [pc_thread] + customer_threads:
 
 ## 实验总结
 
-　　通过本次实验，我深入理解了多线程编程的核心概念及其在现代计算机系统中的重要性。本次实验不仅加深了我对多线程编程的理解，还提升了我的实际编程技能，特别是在涉及线程同步和互斥的复杂场景中。通过实验，我更加确信，良好的同步机制设计对于构建高效、稳定且可靠的多线程应用至关重要。
+&emsp;&emsp;通过本次实验，我深入理解了多线程编程的核心概念及其在现代计算机系统中的重要性。本次实验不仅加深了我对多线程编程的理解，还提升了我的实际编程技能，特别是在涉及线程同步和互斥的复杂场景中。通过实验，我更加确信，良好的同步机制设计对于构建高效、稳定且可靠的多线程应用至关重要。
