@@ -1,7 +1,0 @@
-D:\教学\JJ操作系统\实验\OSEx\Paging\bin\Debug\Paging.exe.config
-D:\教学\JJ操作系统\实验\OSEx\Paging\bin\Debug\Paging.exe
-D:\教学\JJ操作系统\实验\OSEx\Paging\bin\Debug\Paging.pdb
-D:\教学\JJ操作系统\实验\OSEx\Paging\obj\Debug\Paging.csprojAssemblyReference.cache
-D:\教学\JJ操作系统\实验\OSEx\Paging\obj\Debug\Paging.csproj.CoreCompileInputs.cache
-D:\教学\JJ操作系统\实验\OSEx\Paging\obj\Debug\Paging.exe
-D:\教学\JJ操作系统\实验\OSEx\Paging\obj\Debug\Paging.pdb

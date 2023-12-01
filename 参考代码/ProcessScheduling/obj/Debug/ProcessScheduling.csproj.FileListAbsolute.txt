@@ -1,7 +1,0 @@
-D:\教学\JJ操作系统\实验\OSEx\ProcessScheduling\bin\Debug\ProcessScheduling.exe.config
-D:\教学\JJ操作系统\实验\OSEx\ProcessScheduling\bin\Debug\ProcessScheduling.exe
-D:\教学\JJ操作系统\实验\OSEx\ProcessScheduling\bin\Debug\ProcessScheduling.pdb
-D:\教学\JJ操作系统\实验\OSEx\ProcessScheduling\obj\Debug\ProcessScheduling.csproj.CoreCompileInputs.cache
-D:\教学\JJ操作系统\实验\OSEx\ProcessScheduling\obj\Debug\ProcessScheduling.exe
-D:\教学\JJ操作系统\实验\OSEx\ProcessScheduling\obj\Debug\ProcessScheduling.pdb
-D:\教学\JJ操作系统\实验\OSEx\ProcessScheduling\obj\Debug\ProcessScheduling.csprojAssemblyReference.cache

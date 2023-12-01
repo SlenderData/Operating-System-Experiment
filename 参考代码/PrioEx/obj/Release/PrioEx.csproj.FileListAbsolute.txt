@@ -1,7 +1,0 @@
-C:\Users\bettafli_2\source\repos\Mutex\PrioEx\bin\Release\PrioEx.exe.config
-C:\Users\bettafli_2\source\repos\Mutex\PrioEx\bin\Release\PrioEx.exe
-C:\Users\bettafli_2\source\repos\Mutex\PrioEx\bin\Release\PrioEx.pdb
-C:\Users\bettafli_2\source\repos\Mutex\PrioEx\obj\Release\PrioEx.csprojAssemblyReference.cache
-C:\Users\bettafli_2\source\repos\Mutex\PrioEx\obj\Release\PrioEx.csproj.CoreCompileInputs.cache
-C:\Users\bettafli_2\source\repos\Mutex\PrioEx\obj\Release\PrioEx.exe
-C:\Users\bettafli_2\source\repos\Mutex\PrioEx\obj\Release\PrioEx.pdb

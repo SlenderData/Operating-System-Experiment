@@ -1,7 +1,0 @@
-D:\教学\JJ操作系统\实验\OSEx\Mutex\bin\Release\Mutex.exe.config
-D:\教学\JJ操作系统\实验\OSEx\Mutex\bin\Release\Mutex.exe
-D:\教学\JJ操作系统\实验\OSEx\Mutex\bin\Release\Mutex.pdb
-D:\教学\JJ操作系统\实验\OSEx\Mutex\obj\Release\MutexEx.csprojAssemblyReference.cache
-D:\教学\JJ操作系统\实验\OSEx\Mutex\obj\Release\MutexEx.csproj.CoreCompileInputs.cache
-D:\教学\JJ操作系统\实验\OSEx\Mutex\obj\Release\Mutex.exe
-D:\教学\JJ操作系统\实验\OSEx\Mutex\obj\Release\Mutex.pdb

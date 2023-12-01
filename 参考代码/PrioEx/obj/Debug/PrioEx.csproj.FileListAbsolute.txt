@@ -1,7 +1,0 @@
-D:\教学\JJ操作系统\实验\OSEx\PrioEx\bin\Debug\PrioEx.exe.config
-D:\教学\JJ操作系统\实验\OSEx\PrioEx\bin\Debug\PrioEx.exe
-D:\教学\JJ操作系统\实验\OSEx\PrioEx\bin\Debug\PrioEx.pdb
-D:\教学\JJ操作系统\实验\OSEx\PrioEx\obj\Debug\PrioEx.csprojAssemblyReference.cache
-D:\教学\JJ操作系统\实验\OSEx\PrioEx\obj\Debug\PrioEx.csproj.CoreCompileInputs.cache
-D:\教学\JJ操作系统\实验\OSEx\PrioEx\obj\Debug\PrioEx.exe
-D:\教学\JJ操作系统\实验\OSEx\PrioEx\obj\Debug\PrioEx.pdb

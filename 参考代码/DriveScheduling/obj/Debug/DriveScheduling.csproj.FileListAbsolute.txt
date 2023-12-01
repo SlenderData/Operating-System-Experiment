@@ -1,7 +1,0 @@
-D:\教学\JJ操作系统\实验\OSEx\DriveScheduling\bin\Debug\DriveScheduling.exe.config
-D:\教学\JJ操作系统\实验\OSEx\DriveScheduling\bin\Debug\DriveScheduling.exe
-D:\教学\JJ操作系统\实验\OSEx\DriveScheduling\bin\Debug\DriveScheduling.pdb
-D:\教学\JJ操作系统\实验\OSEx\DriveScheduling\obj\Debug\DriveScheduling.csprojAssemblyReference.cache
-D:\教学\JJ操作系统\实验\OSEx\DriveScheduling\obj\Debug\DriveScheduling.csproj.CoreCompileInputs.cache
-D:\教学\JJ操作系统\实验\OSEx\DriveScheduling\obj\Debug\DriveScheduling.exe
-D:\教学\JJ操作系统\实验\OSEx\DriveScheduling\obj\Debug\DriveScheduling.pdb
