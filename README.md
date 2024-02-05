@@ -1,6 +1,6 @@
 # Operating-System-Experiment
 
-江苏大学京江学院操作系统课程实验的 <img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/Python.svg" alt="Python" style="height:1em">Python 实现
+<img src="https://raw.githubusercontent.com/SlenderData/img/134a47fef1673079cf90e22991885faac58a59f2/images/%E5%B8%B8%E7%94%A8/%E5%AD%A6%E6%A0%A1%E6%A0%87%E8%AF%86/%E6%B1%9F%E8%8B%8F%E5%A4%A7%E5%AD%A6%E4%BA%AC%E6%B1%9F%E5%AD%A6%E9%99%A2/%E6%A0%A1%E5%BE%BD.svg" alt="UJSJC" style="height:1em"> 江苏大学京江学院操作系统课程实验的 <img src="https://raw.githubusercontent.com/SlenderData/img/main/images/%E5%B8%B8%E7%94%A8/Logo/Language/Python.svg" alt="Python" style="height:1em">Python 实现
 
 实验的指导书 👉 [操作系统实验指导书.pdf](https://github.com/SlenderData/Operating-System-Experiment/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%E6%8C%87%E5%AF%BC%E4%B9%A6.pdf) 具体要求都在里面 🫲🌹🫱
 
